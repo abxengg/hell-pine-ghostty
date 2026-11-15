@@ -2,7 +2,9 @@
 
 A darker, higher-contrast take on Rosé Pine, born inside tmux, for Ghostty.
 
-![Hell Pine in Neovim, the terminal and tmux](https://raw.githubusercontent.com/abxengg/hell-pine.nvim/main/assets/hero.png)
+![git log, git status and the sixteen colours in Hell Pine](preview.png)
+
+Real terminal output, drawn with the colours in this theme file.
 
 ## Install
 
